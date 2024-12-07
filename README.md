@@ -20,5 +20,11 @@ GIT config - Only one time if not configured already
 git config --global user.name "Vaishali Badgujar" 
 git config --global user.email "badgujar.vaishali@gmail.com"
 
+git add .
+git status
+git commit -m "give commit message"
+git push <remote> <branch>
+
+
 
 
